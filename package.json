@@ -1,0 +1,12 @@
+{
+  "name": "function-calling",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@langchain/ollama": "^0.2.0",
+    "dotenv": "^16.4.7",
+    "langchain": "^0.3.15",
+    "zod": "^3.24.1"
+  }
+}
